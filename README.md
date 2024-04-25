@@ -1,2 +1,2 @@
 # Tulip
-Tulip Game Engine
+Tulip Game Engine following Chernos Game Engine Series
